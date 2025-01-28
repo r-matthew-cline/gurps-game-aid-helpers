@@ -1,0 +1,18 @@
+{
+    "id": "gurps-game-aid-helpers",
+    "title": "Gurps Game Aid Helpers",
+    "description": "Collection of helpers for the Gurps Game Aid For Foundry game system",
+    "authors": [
+        {
+            "name": "r-matthew-cline"
+        }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "esmodules": [
+        "scripts/test.js"
+    ]
+}
