@@ -3,19 +3,18 @@
     "title": "Gurps Game Aid Helpers",
     "description": "Collection of helpers for the Gurps Game Aid For Foundry game system",
     "manifest": "https://github.com/r-matthew-cline/gurps-game-aid-helpers/raw/refs/heads/main/module.json",
-    "download": "https://github.com/r-matthew-cline/gurps-game-aid-helpers/archive/refs/tags/v0.0.4.zip",
+    "download": "https://github.com/r-matthew-cline/gurps-game-aid-helpers/archive/refs/tags/v0.0.5.zip",
     "authors": [
         {
             "name": "r-matthew-cline"
         }
     ],
-    "version": "0.0.4",
+    "version": "0.0.5",
     "compatibility": {
         "minimum": "12",
         "verified": "12"
     },
-    "scripts": [
-        "scripts/test.js",
-        "scripts/shoot.js"
+    "esmodules": [
+        "src/main.js"
     ]
 }
